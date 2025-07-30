@@ -66,7 +66,7 @@ photozip = 'https://envs.sh/cD_.jpg'
 BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact", url="https://t.me/saini_contact_bot")]])
 keyboard = InlineKeyboardMarkup(
     [
-        [InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"), InlineKeyboardButton(text="🛠️ Repo", url="https://github.com/nikhilsainiop/saini-txt-direct")],
+        [InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"), InlineKeyboardButton(text="🛠️ Repo", url="https://github.com/nikhilsainiop/saini-txt-direct67")],
     ]
 )
 
@@ -672,7 +672,7 @@ async def upgrade_button(client, callback_query):
            f"• 🎓 Utkarsh Protection(Video + PDF)\n"
            f"• 🎓 All Non DRM+AES Encrypted URLs\n"
            f"• 🎓 MPD URLs if the key is known (e.g., Mpd_url?key=key XX:XX)</blockquote>\n\n"
-           f"<b>💵 Monthly Plan: 100 INR</b>\n\n"
+           f"<b>💵 Monthly Plan: 1000 INR</b>\n\n"
            f"If you want to buy membership of the bot, feel free to contact [{CREDIT}](tg://user?id={OWNER})\n"
     )  
     
