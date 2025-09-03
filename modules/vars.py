@@ -8,7 +8,7 @@ API_HASH = environ.get("API_HASH", "e03f5b9029ac3f2cde701fe15a150d38")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 OWNER = int(environ.get("OWNER", "5764696199"))
-CREDIT = environ.get("CREDIT", "Goga baps")
+CREDIT = environ.get("CREDIT", "Goga bapa")
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
 TOTAL_USER = os.environ.get('TOTAL_USERS', '5764696199').split(',')
@@ -33,4 +33,5 @@ photoyt = 'https://tinypic.host/images/2025/03/18/YouTube-Logo.wine.png' #https:
 photocp = 'https://tinypic.host/images/2025/03/28/IMG_20250328_133126.jpg'
 photozip = 'https://envs.sh/cD_.jpg'
 # .....,.....,.......,...,.......,....., .....,.....,.......,...,.
+
 
